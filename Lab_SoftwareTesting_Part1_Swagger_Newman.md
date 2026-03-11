@@ -149,11 +149,11 @@ OpenAPI Document
 
 > 📌 **รูปที่ 1 — ภาพรวม Swagger + Newman ใน API Development Workflow**
 
-![Swagger - newman]('images/swagger-newman.png')
+![Swagger - newman](images/swagger-newman.png)
 ---
 
 > 📌 **รูปที่ 2 — เปรียบเทียบการทำงานของ Swagger UI vs Newman**
-![Swagger - newman]('images/swagger-newman-compair.png')
+![Swagger - newman](images/swagger-newman-compair.png)
 
 
 
@@ -534,7 +534,7 @@ npm run dev
 
 > 📌 **รูปที่ 3 — ขั้นตอนการใช้ Swagger UI ทดสอบ Protected API**
 
-![Swagger UI]('images/swagger-UI-testing.png')
+![Swagger UI](images/swagger-UI-testing.png)
 ---
 
 **ทดลองตามลำดับ:**
@@ -552,7 +552,7 @@ Token (15 ตัวแรก)     : ______________________________...
 ```
 
 ### 📸 แทรกภาพหน้าจอ Swagger UI — POST /api/login Response ที่นี่
-![Swagger UI-POST /api/login response]('images/swagger-UI-Response.png')
+![Swagger UI-POST /api/login response](images/swagger-UI-Response.png)
 ---
 
 **ขั้นที่ 2 — ตั้งค่า Authorization**
@@ -642,7 +642,7 @@ LoginResponse: {
 ```
 
 📸 แทรกภาพหน้าจอ Swagger UI ที่แสดง Schema `LoginResponse` ใน Models section:
-![Swagger UI-POST LoginResponse]('images/swagger-UI-Response.png')
+![Swagger UI-POST LoginResponse](images/swagger-UI-Response.png)
 > ___
 
 ---
@@ -681,7 +681,7 @@ app.get('/api/health', (req, res) => {
 ```
 
 📸 แทรกภาพหน้าจอ Swagger UI ที่แสดง /api/health endpoint และ Response จริง:
-![Swagger UI-health check]('images/swagger-UI-Response.png')
+![Swagger UI-health check](images/swagger-UI-Response.png)
 > ___
 
 ---
@@ -721,9 +721,8 @@ Error message                    : ______________________________
 
 > 📌 **รูปที่ 4 — สถาปัตยกรรมการทำงานของ Newman CLI**
 >
-> *(แทรกรูปภาพที่สร้างจาก Prompt ด้านล่างที่นี่)*
 
-![newman Architecture]('images/newman-architecture.png')
+![newman Architecture](images/newman-architecture.png)
 
 ---
 
